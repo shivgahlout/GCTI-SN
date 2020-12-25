@@ -11,7 +11,7 @@ IIIT-Delhi
 ### Dataset for this paper can be found [here](https://wiki.cancerimagingarchive.net/display/Public/SN-AM+Dataset%3A+White+Blood+cancer+dataset+of+B-ALL+and+MM+for+stain+normalization.)
 
 ### If you are using this code please cite the following papers: 
-[1] Anubha Gupta, Rahul Duggal, Shiv Gehlot, Ritu Gupta, Anvit Mangal, Lalit Kumar, Nisarg Thakkar, and Devprakash Satpathy, "GCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images," Medical Image Analysis, Volume 65, 101788, 2020.
+[1] Anubha Gupta, Rahul Duggal, Shiv Gehlot, Ritu Gupta, Anvit Mangal, Lalit Kumar, Nisarg Thakkar, and Devprakash Satpathy, "GCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images," Medical Image Analysis, Volume 65, 101788, 2020. \
 [2] A method for normalizing histology slides for quantitative analysis, M Macenko, M Niethammer, JS Marron, D Borland, JT Woosley, G Xiaojun, C Schmitt, NE Thomas, IEEE ISBI, 2009. dx.doi.org/10.1109/ISBI.2009.5193250 
 
 ### Demo
@@ -25,9 +25,9 @@ IIIT-Delhi
 
 ### Step-wise results can also be visualized. For H&E image:
 
-<img src = "/data/H&E_results/HE_illumination_cor.png" width ="500"> 
+<img src = "/data/H&E_results/HE_illumination_cor.png" width ="300"> 
  
-<img src = "/data/H&E_results/HE_basis_rep.png" width ="500"> 
+<img src = "/data/H&E_results/HE_basis_rep.png" width ="300"> 
 
-<img src = "/data/H&E_results/HE_quant_cor.png" width ="500"> 
+<img src = "/data/H&E_results/HE_quant_cor.png" width ="300"> 
 
