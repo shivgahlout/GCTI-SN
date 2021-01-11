@@ -8,7 +8,7 @@ IIIT-Delhi
 
 ### Code for our paper ["GCTI-SN: Geometry-inspired chemical and tissue invariant stain normalization of microscopic medical images."](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301523?via%3Dihub)
 
-### Dataset for this paper can be found [here](https://wiki.cancerimagingarchive.net/display/Public/SN-AM+Dataset%3A+White+Blood+cancer+dataset+of+B-ALL+and+MM+for+stain+normalization.)
+### Dataset for this paper can be found [here](https://wiki.cancerimagingarchive.net/display/Public/SN-AM+Dataset%3A+White+Blood+cancer+dataset+of+B-ALL+and+MM+for+stain+normalization#52757009bcab02c187174a288dbcbf95d26179e8)
 
 ### If you are using this code please cite the following papers: 
 [1] Anubha Gupta, Rahul Duggal, Shiv Gehlot, Ritu Gupta, Anvit Mangal, Lalit Kumar, Nisarg Thakkar, and Devprakash Satpathy, "GCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images," Medical Image Analysis, Volume 65, 101788, 2020. \
